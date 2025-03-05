@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771594409433",
+    "project_id": "webhorizon-49d00",
+    "storage_bucket": "webhorizon-49d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771594409433:android:da2f8112d811e4cb9cf5c8",
+        "android_client_info": {
+          "package_name": "com.cmlcs.webhorizonandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3RFzyEVfDzxBMw3MgQpyOuyPendVluy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
